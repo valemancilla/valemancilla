@@ -14,8 +14,8 @@
 
 ### 🚀 Proyecto Destacado
 
-🧠 **Sistemas de Gestión en Python y .NET** – Desarrollo de proyectos académicos y funcionales  
-🔗 Próximamente disponible
+🧠 **Sistemas de Gestión en Python y .NET**  
+💻 Desarrollo de proyectos académicos y funcionales enfocados en soluciones tecnológicas.
 
 ---
 
@@ -66,8 +66,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=default&hide_border=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valemancilla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valemancilla&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -75,7 +76,21 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=flat&no-bg=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=valemancilla&theme=tokyonight&no-bg=true&no-frame=true&column=7" />
+</p>
+
+---
+
+### 🌐 Conecta Conmigo
+
+<p align="left">
+  <a href="https://github.com/valemancilla" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:valem2958@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
